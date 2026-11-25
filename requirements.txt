@@ -1,0 +1,3 @@
+# Hiçbir bağımlılık yok.
+# Çünkü tembeliz.
+# time ve random standart kütüphane.
